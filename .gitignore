@@ -1,0 +1,39 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# MSTest Test Results
+TestResults/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Aa]rtifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# Files and directories created by Visual Studio
+[Tt]humbs.db
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.cache
+*.crx
+*.swp
