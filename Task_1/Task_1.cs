@@ -61,7 +61,7 @@
             {
                 for (int j = 0; j < m; ++j)
                 {
-                    Console.Write(matrix[i, j] + " ");
+                    Console.Write(matrix[i, j] + "\t");
                 }
                 Console.WriteLine();
             }
