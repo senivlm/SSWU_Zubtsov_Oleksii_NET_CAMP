@@ -3,7 +3,7 @@
     internal class Task_1
     {
         static void Main(string[] args)
-        {
+        {плополп
             Console.WriteLine("Enter matrix size");
             Console.Write("Row ");
             int n = int.Parse(Console.ReadLine());
