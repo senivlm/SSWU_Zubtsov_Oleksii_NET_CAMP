@@ -1,7 +1,7 @@
 ﻿namespace Task_1
 {
     internal class Task_1
-    {
+    {//Вітаю. Перше завдання по створенню репозиторію Ви виконали, однак не дотримались запропонованої системи назв Task1/exercise1/. Прохання виправити.
         static void Main(string[] args)
         {
             Console.WriteLine("Enter matrix size");
